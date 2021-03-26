@@ -2,8 +2,6 @@
 
 - 🔭 Currently exploring Computer Vision & NLP
 
-![image](https://user-images.githubusercontent.com/17870236/112630352-7cafdb80-8e5b-11eb-84eb-75cbc7fa93f9.png)
-
 
 <!--
 **gkdivya/gkdivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
