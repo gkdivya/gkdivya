@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hellllloooooo there, Welcome to my repo 👋 😄
 
+- 🔭 Currently exploring Computer Vision & NLP
 
-- 🔭 I’m currently working on Computer Vision and NLP
-- 🌱 I’m currently learning PyTorch
-- 👯 I’m looking to collaborate on any Computer Vision hackathons
-
+![image](https://user-images.githubusercontent.com/17870236/112630352-7cafdb80-8e5b-11eb-84eb-75cbc7fa93f9.png)
 
 
 <!--
