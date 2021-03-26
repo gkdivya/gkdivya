@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on Computer Vision and NLP
+- 🌱 I’m currently learning PyTorch
+- 👯 I’m looking to collaborate on any Computer Vision hackathons
+
+
+
 <!--
 **gkdivya/gkdivya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
