@@ -1,6 +1,6 @@
 ### Hellllloooooo there, Welcome to my repo 👋 😄
 
-- 🔭 Currently exploring Computer Vision & NLP
+- 🔭 Currently exploring Computer Vision & NLP, Excited to contribute on [!Omdena projects](https://omdena.com/) - Ai for good!
 
 
 <!--
